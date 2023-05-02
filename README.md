@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+
+![javascript](https://user-images.githubusercontent.com/74648612/235700870-0238ba92-9eaf-432c-8baa-86cc04632d60.svg)
 ![html](https://user-images.githubusercontent.com/74648612/235700453-cb04e611-4593-4da0-975e-b7bd2a60f7bf.svg)
 ![sass](https://user-images.githubusercontent.com/74648612/235699698-622ee195-d5ad-4b73-9cf6-ba17be4c0144.svg)
 
